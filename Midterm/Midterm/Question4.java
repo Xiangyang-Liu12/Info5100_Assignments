@@ -33,30 +33,3 @@ public class Question4 {
             return result;
         }
     }
-      /*  int a_pointer = 0;
-        int b_pointer = 0;
-        StringBuilder sb = new StringBuilder();
-        String result = "";
-        List<String> list = new ArrayList<>();
-
-        Set<Character> set = new HashSet<>();
-        while(b_pointer < s.length()){
-            if(!set.contains(s.charAt(b_pointer))){
-                set.add(s.charAt(b_pointer));
-                b_pointer++;
-                sb.append(b_pointer);
-             //   Arrays.asList(sb);
-                list.add(sb.toString());
-              //  result = Math.max(result, set.size());
-                for(int i = 0; i < sb.length(); i++){
-
-                }
-            }else{
-                set.remove(s.charAt(a_pointer));
-                a_pointer++;
-            }
-        }
-        return result;
-    }
-    }*/
-

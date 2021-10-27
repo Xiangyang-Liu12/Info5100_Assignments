@@ -17,6 +17,6 @@ public class Reference extends Book{
     }
     @Override
     String description() {
-        return this.title + "all information is real";
+        return this.getTitle() + "all information is real";
     }
 }

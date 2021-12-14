@@ -5,6 +5,11 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Homework_4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Homework_5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework_6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practiceG" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practiceT" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practiceD" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Final" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

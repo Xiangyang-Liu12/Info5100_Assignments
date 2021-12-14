@@ -12,7 +12,7 @@ public class ShoppingCart {
     }
 
     public void addItem(Item item){
-       list.add(item);
+        list.add(item);
     }
     public void removeItem(Item item){
         list.remove(item);
